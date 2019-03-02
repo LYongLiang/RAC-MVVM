@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"1111");
+    NSLog(@"RAC + MVVM");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
