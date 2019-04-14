@@ -20,6 +20,7 @@
     NSLog(@"RAC - MVVM")
     NSLog(@"RAC + MVVM");
     NSLog(@"20190414");
+    NSLog(@"20190414lyl");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
